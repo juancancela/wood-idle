@@ -121,7 +121,7 @@ function App() {
           href="https://www.instagram.com/tapir_de_los_montes/"
           target="_blank"
         >
-          VISITANOS EN INSTAGRAM!
+          VISITANOS EN INSTAGRAM AHORA!
         </a>
       </div>
     </div>
