@@ -1,0 +1,54 @@
+.contenedor {
+  display: grid;
+  grid-template-rows: 9fr 1fr;
+  height: 100vh;
+  font-size: 20px;
+}
+
+.contenedor-juego {
+  display: grid;
+  grid-template-rows: 1fr 9fr;
+}
+
+.contenedor-publicidad {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content:center;
+  font-size: 40px;
+  background-color: bisque;
+}
+
+.menu-arriba-juego {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background-color: cadetblue;
+  border: 10px solid white;
+}
+
+.menu-abajo-juego {
+  display: grid;
+  padding: 40px;
+  grid-template-columns: 1fr 1fr;
+  background-color: cadetblue;
+}
+
+.boton-madera {
+  height: 100px;
+  width: 100px;
+}
+
+.niveles {
+  display: grid;
+  margin-top: 10px;
+  grid-template-columns: 1fr 1fr;
+}
+
+.icono-madera {
+  height: 50px;
+}
+
+.icono-madera-texto {
+  font-weight: bolder;
+  font-size: 25px;
+}
