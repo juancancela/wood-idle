@@ -3,11 +3,13 @@
   grid-template-rows: 9fr 1fr;
   height: 100vh;
   font-size: 20px;
+  touch-action: manipulation;
 }
 
 .contenedor-juego {
   display: grid;
   grid-template-rows: 1fr 9fr;
+  touch-action: manipulation;
 }
 
 .contenedor-publicidad {
@@ -17,6 +19,7 @@
   justify-content:center;
   font-size: 40px;
   background-color: bisque;
+  touch-action: manipulation;
 }
 
 .menu-arriba-juego {
@@ -24,6 +27,7 @@
   grid-template-columns: 1fr 1fr;
   background-color: cadetblue;
   border: 10px solid white;
+  touch-action: manipulation;
 }
 
 .menu-abajo-juego {
@@ -31,24 +35,29 @@
   padding: 40px;
   grid-template-columns: 1fr 1fr;
   background-color: cadetblue;
+  touch-action: manipulation;
 }
 
 .boton-madera {
   height: 100px;
   width: 100px;
+  touch-action: manipulation;
 }
 
 .niveles {
   display: grid;
   margin-top: 10px;
   grid-template-columns: 1fr 1fr;
+  touch-action: manipulation;
 }
 
 .icono-madera {
   height: 50px;
+  touch-action: manipulation;
 }
 
 .icono-madera-texto {
   font-weight: bolder;
   font-size: 25px;
+  touch-action: manipulation;
 }

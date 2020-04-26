@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aec39ff3.chunk.css",
+    "main.js": "/static/js/main.a7b153ca.chunk.js",
+    "main.js.map": "/static/js/main.a7b153ca.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7c02405e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7c02405e.js.map",
+    "static/css/2.74189dbb.chunk.css": "/static/css/2.74189dbb.chunk.css",
+    "static/js/2.e996a555.chunk.js": "/static/js/2.e996a555.chunk.js",
+    "static/js/2.e996a555.chunk.js.map": "/static/js/2.e996a555.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.249ae40edd3fef2fc128b62eb4eb1497.js": "/precache-manifest.249ae40edd3fef2fc128b62eb4eb1497.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.74189dbb.chunk.css.map": "/static/css/2.74189dbb.chunk.css.map",
+    "static/css/main.aec39ff3.chunk.css.map": "/static/css/main.aec39ff3.chunk.css.map",
+    "static/js/2.e996a555.chunk.js.LICENSE.txt": "/static/js/2.e996a555.chunk.js.LICENSE.txt",
+    "static/media/madera.png": "/static/media/madera.41c42379.png",
+    "static/media/piedra.png": "/static/media/piedra.11ceffbd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c02405e.js",
+    "static/css/2.74189dbb.chunk.css",
+    "static/js/2.e996a555.chunk.js",
+    "static/css/main.aec39ff3.chunk.css",
+    "static/js/main.a7b153ca.chunk.js"
+  ]
+}
